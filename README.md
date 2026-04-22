@@ -1,3 +1,3 @@
 # Spots
 
-Cellular automata generating black and white spots I wrote as a part of my Computer Modeling course.
+This is a project for a computer modeling classes assignment about [cellular automatas](https://en.wikipedia.org/wiki/Cellular_automaton).
